@@ -1,26 +1,8 @@
 # josé Ignacio Bustamante Vargas
 
-## ¿Que hago en CITCEA-UPC?
+## Descripción
 
-* Análisis de requisitos en proyectos computacionales
-* Diseño e implementación Software (esto se me da bien)
-* Administración de sistemas informáticos (esto lo hago porque alguien tiene que hacerlo)
-* soporte informático (no hablo de formatear PCs si no de atender dudas que podáis tener en los puntos anteriores)
+### Ingeniero del Software en Restb.ai. 
 
-## Lenguages que domino:
-
-* Avanzado:
-  * C++
-  * JavaScript
-  * C#
-* Intermedio:
-  * Python
-  * JAVA
-  * PHP
-  * C
-* Básico:
-  * cualquier lenguaje en menos de una hora
-  * CLIPS (motor de reglas IA) 
-  * Smalltalk (Orientación a objectos en definición pura)
-  * GLSL (planificador de tareas IA)
+Trabajo en un equipo formado por 3 departamentos técnicos de los cuales el mio particularmente consta de 5 personas. En mi día a día uso Github donde tenemos un ciclo completo de CI/CD con la finalidad de automatizar y facilitar nuestro trabajo diario.
   
